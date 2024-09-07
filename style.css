@@ -2,7 +2,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    color: white;
+    color: #c9c9c9;
 }
 
 body {
@@ -55,13 +55,17 @@ body::before {
 
 .container__botao {
     border-radius: 16px;
-    background: #1875E8;
+    background: #3E06CA;
     padding: 16px 24px;
     width: 100%;
     font-size: 24px;
     font-weight: 700;
     border: none;
     margin-top: 2rem;
+}
+#reiniciar
+{
+    background: #01080E; 
 }
 
 .container__texto {
